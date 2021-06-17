@@ -1,5 +1,0 @@
-#ifndef SCORE_H
-#define SCORE_H
-double Avg(int n, int *P);
-int MaxScore(int n, int *P);
-#endif
